@@ -15,4 +15,4 @@ Sihtkohad:
 - Barcelona, Hispaania: Hind 350€
 
 **Deploy link:**
-Kui soovid koodi proovida veebis, saad kasutada [Replit.com](https://replit.com/) või mõnda muud veebipõhist keskkonda, et kood tööle panna.
+Kui soovid koodi proovida veebis, siis vajuta siia https://replit.com/@andrepark1/Eurotrip
